@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CarTest</string>
+    <string name="hvac">空调</string>
+    <string name="light">灯光</string>
+    <string name="adas">自动驾驶</string>
+    <string name="drive_setting">行车设置</string>
+    <string name="car_info">车辆信息</string>
+    <string name="sensor_info">传感器信息</string>
+</resources>
